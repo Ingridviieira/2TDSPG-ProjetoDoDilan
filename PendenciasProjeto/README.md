@@ -1,0 +1,1 @@
+# Coloque nesta pasta somente documenetos que explicam pendências de requisitos do projeto que não serão atendidios na primeira versão 
